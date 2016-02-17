@@ -1,11 +1,6 @@
 # FountChanger
-this is simple Class for change your fount in application. you just have a put your <code>.ttf</code> into Asset folder then just pass this to your 
-```BaseActivity
-```
-```BaseFragment
-``` 
-and ```BaseAdapter```
-So just Add thease lines into your <b>BaseActivity</b>
+this is simple Class for change your fount in application. you just have a put your <code>.ttf</code> into Asset folder then just pass this to your <b>BaseActivity</b>,<b>BaseFragment</b>and <b>BaseAdapter</b>
+
 ```@Override
 public void setContentView(View view)
 {
